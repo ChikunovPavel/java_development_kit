@@ -1,10 +1,7 @@
 package lesson3.hw3;
 
-import java.sql.SQLOutput;
-import java.util.function.Function;
 
-
-public class Main {
+public class Task3 {
 
     public static void main(String[] args) {
         Pair<Integer, Boolean> pair = new Pair<>(123, true);

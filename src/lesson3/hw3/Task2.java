@@ -2,7 +2,7 @@ package lesson3.hw3;
 
 import java.util.Objects;
 
-public class ArrayUtils {
+public class Task2 {
     public static void main(String[] args) {
 
         Integer[] array1 = new Integer[]{50, 400, 250, 300, 100, 200, 350, 450, 51, 432, 267, 345, 98, 299, 312, 498, 52, 423, 278, 334, 109, 288, 321, 487};
